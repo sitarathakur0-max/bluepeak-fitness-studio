@@ -1,0 +1,6 @@
+{
+  "name": "BluePeak Fitness Studio",
+  "description": "BluePeak Fitness Studio (Third Space Soho) in London W1F 9US. Elevate your fitness with training, services, and coaching. Call +44 20 7439 6333.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
